@@ -13,3 +13,8 @@ together!
 ## Squad
 
 [Alan](./profiles/alan.md)
+
+
+## Maintenance & PRs
+
+I am going to be responsible for this repository maintenance and PR (pull requests) merging to expand the **International Web3 Squad**
