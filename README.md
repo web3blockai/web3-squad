@@ -14,6 +14,8 @@ together!
 
 [Alan](./profiles/alan.md)
 
+[Discord Server](https://discord.gg/5gH8EbXw)
+
 
 ## Maintenance & PRs
 
