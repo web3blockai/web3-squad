@@ -12,3 +12,7 @@ https://github.com/web3blockai/freelance
 
 # Portfolio
 https://github.com/web3blockai/portfolio
+
+# Proposal
+
+https://github.com/web3blockai/proposal
