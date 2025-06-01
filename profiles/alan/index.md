@@ -2,6 +2,9 @@
 
 ## Upwork Freelance Profile
 
+# Profile 
+https://github.com/web3blockai/profile
+
 https://upwork.com/fl/web3blockai
 
 # Freelance
